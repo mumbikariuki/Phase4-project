@@ -9,6 +9,7 @@
 This data is more importantly of interest to various stakeholders that  play critical roles in the project. These stakeholders include:      a)Syria Tel company at large :This also involves the company's executives, shareholders and investors.
 b)Customers are indirectly impacted. The goal is to improve services and customer satisfaction, potentially reducing churn and ensuring a positive experience for existing customers.
 C)Customer Service Teams  who benefit from understanding patterns indicative of potential churn. This information enables them to proactively engage with customers, address concerns, and enhance the overall customer experience.
+d)Anyone interested in gaining insights into this Syria Tel predidictive customer churn analysis.
 
 # Business understanding
 # Introduction
